@@ -13,7 +13,9 @@ Clone this repo
 Navigate to search-rank-ui  and open in VSCODE or editor of your  choice 
 
 npm install to install all req'd dependencies
-npm start to start the local server (this project uses create-react-app)
+
+npm start to start the local server
+
 Once all good , you can see the below screen 
 ![image](https://user-images.githubusercontent.com/11384742/104116584-e6950a80-536d-11eb-83c4-eb7ff2b82973.png)
 
