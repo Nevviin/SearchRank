@@ -21,12 +21,12 @@ Once all good , you can see the below screen
 2, To launch the backend Api 
 
 Backend is build using asp.ent core 5 web api
-Buld the soluiton and launch suing the iis express, once the up and running you can see the below swagger page 
+Build the solution and launch using the iis express, once the up and running you can see the below swagger page 
 
 
 ![image](https://user-images.githubusercontent.com/11384742/104116661-bb5eeb00-536e-11eb-807e-7b881fafbedc.png)
 
 
-3, Input your keyword for search and input your choice of webside url related to key word and clcik search , you can see the result like below 
+3, Input your keyword for search and input your choice of website url related to key word and click search , you can see the result like below 
 
 ![image](https://user-images.githubusercontent.com/11384742/104116557-b188b800-536d-11eb-950c-d62e371b5c6f.png)
