@@ -1,0 +1,31 @@
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft": "Warning",
+      "Microsoft.Hosting.Lifetime": "Information"
+    }
+  },
+  "Serilog": {
+    "WriteTo": [
+      {
+        "Name": "File",
+        "Args": {
+          "path": "SearchRank.Api.Log_.txt",
+          "rollingInterval": "Day"
+        }
+      }
+    ]
+  },
+  "Google": {
+    "url": "https://www.google.com.au/search?q={0}&num={1}",
+    "searchFilter": "//div[@class='kCrYT']",
+    "firstChild": "a"
+  },
+  "Bing": {
+    "url": "https://www.bing.com/search?q={0}&count={1}&cc=au",
+    "searchFilter": "//li[@class='b_algo']",
+    "firstChild": "a"
+  },
+  "AllowedHosts": "*"
+}
