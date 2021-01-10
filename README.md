@@ -21,7 +21,7 @@ Once all good , you can see the below screen
 2, To launch the backend Api 
 
 Backend is build using asp.ent core 5 web api
-Build the solution and launch using the iis express, once the up and running you can see the below swagger page 
+Build the solution and launch using the iis express, once the api is up and running you can see the below swagger page 
 
 
 ![image](https://user-images.githubusercontent.com/11384742/104116661-bb5eeb00-536e-11eb-807e-7b881fafbedc.png)
