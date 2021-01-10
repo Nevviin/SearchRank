@@ -12,7 +12,7 @@ Clone this repo
 
 Navigate to search-rank-ui  and open in VSCODE or editor of your  choice 
 
-npm install to install all req'd dependencies
+npm install to install all required dependencies
 
 npm start to start the local server
 
